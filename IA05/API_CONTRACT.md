@@ -15,7 +15,7 @@ Headers: Authorization, Content-Type: application/json
 | name | string, max 200 | yes | client name |
 | email | string, valid email, max 254, unique | yes | contact email |
 | phone | string, max 20 | yes | contact phone |
-| address, city | string | no | [REPLACE] |
+| address, city | string | no |  |
 | country | string | no | default Ghana |
 | notes | string | no | free text |
 | contacts | list | no | nested contact records |
