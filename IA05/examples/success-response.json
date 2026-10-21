@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "reference_no": "CL-2026-0001",
+  "client_type": "company",
+  "name": "Test Company Ltd",
+  "email": "info@test-company.example",
+  "phone": "0240000000",
+  "city": "Accra",
+  "is_active": true,
+  "note": "SYNTHETIC EXAMPLE. Compare with the real response and fix any difference."
+}
