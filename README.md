@@ -19,5 +19,4 @@ Privacy rule: no formal names, student IDs, rosters or peer evaluations in this 
 | IA09 Security review | IA09/ | security-review.md | [REPLACE] |
 | IA10 Contribution | IA10/ | contribution-evidence.md | [REPLACE] |
 
-Redacted sketch images (name and ID covered) go in each folder as noted in that folder's file.
-The combined portfolio PDF and the peer note are NOT stored here. They go to Sakai only.
+
